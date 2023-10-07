@@ -1,5 +1,5 @@
 #cat1
-videos/01cat1/v video1.mp4,v video1
-videos/01cat1/video1.mp4,video1
+videos/01cat1/01v video1.mp4,v video1
+videos/01cat1/02video1.mp4,video1
 #cat3
-videos/02cat3/v vid.mp4,v vid
+videos/02cat3/01v vid.mp4,v vid
