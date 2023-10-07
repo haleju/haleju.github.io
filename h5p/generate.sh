@@ -24,6 +24,7 @@ for dir in "$root_dir"*/; do
     ((file_count++))
     # Get the file name without the .mp4 extension
     title=$(basename "$mp4_file" .mp4)
+    title="${title:2}"
     # Check if this is the last file in the last subdirectory
     if ((current_subdir_count == num_subdirs)) && ((file_count == $(ls -1 "$dir"*.mp4 | wc -l))); then
       # Print without newline
