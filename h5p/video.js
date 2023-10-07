@@ -33,8 +33,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     
                     // Append the container to the video section with the category label
                     if (currentCategory) {
-                        const categoryLabel = document.createElement('h3');
+                        const categoryLabel = document.createElement('h2');
                         categoryLabel.textContent = currentCategory;
+                        categoryLabel.classList.add('category');
                         videoSection.appendChild(categoryLabel);
                         currentCategory = null; // Reset the category label
                     }

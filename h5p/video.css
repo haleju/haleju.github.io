@@ -22,3 +22,12 @@
     width: 100%; /* Make the videos fill the entire container width */
     max-width: 100%; /* Ensure videos don't exceed their original size */
 }
+
+/* Style the category titles */
+.category {
+    background-color: #9ccc9c; /* Background color for category titles */
+    border-radius: 10px; /* Rounded edges for category titles */
+    padding: 10px; /* Padding for category titles */
+    margin: 10px; /* Margin above and below category titles */
+    text-align: center; /* Center the text within category titles */
+}
