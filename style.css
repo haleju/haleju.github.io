@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: roboto;
+    src: url(font/roboto-regular.ttf);
+}
+
+/* Reset some default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply background color and font styles */
+body {
+    background-color: #6ba88b; /* Hintergrundfarbe in einer grünlichen Version */
+    font-family: roboto, sans-serif;
+    color: #333; /* Dunkelgraue Textfarbe */
+}
+
+/* Center the title and "Kategorie wählen" */
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+#home-button {
+    text-decoration: none;
+    background-color: #548d68; /* Hintergrundfarbe des Home-Buttons in einer grünlichen Version */
+    color: #fff; /* Weiße Textfarbe */
+    padding: 10px;
+    border-radius: 10px; /* Abgerundete Ecken für den Button */
+    transition: background-color 0.3s ease-in-out;
+}
+
+#title-container {
+    text-align: center;
+    flex-grow: 1; /* Nimmt den verfügbaren Platz zwischen Home-Button und Kategorieliste ein */
+}
+
+h1, p {
+    text-align: center;
+}
+
+/* Style the category list */
+#category-list {
+    list-style: none;
+    text-align: center; /* Zentrieren der gesamten Liste */
+    padding: 20px;
+    background-color: #9ccc9c; /* Hintergrundfarbe der Kategorieliste in einer grünlichen Version */
+    border-radius: 10px; /* Abgerundete Ecken für die Kategorieliste */
+    margin: 5%; /* 5% Rand um die gesamte Kategorieliste */
+}
+
+/* Style category buttons */
+#category-list li {
+    margin: 10px 0; /* Vertikaler Abstand zwischen Elementen */
+}
+
+#category-list a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin: 1% 5%; /* 1% Rand oben und unten, 5% Rand links und rechts */
+    background-color: #548d68; /* Hintergrundfarbe der Kategoriebuttons in einer grünlichen Version */
+    color: #fff; /* Weiße Textfarbe */
+    border-radius: 10px; /* Abgerundete Ecken für die Kategoriebuttons */
+    transition: background-color 0.3s ease-in-out;
+}
+
+#category-list a:hover {
+    background-color: #c94b4b; /* Hintergrundfarbe auf helleres Rot ändern beim Hovern (kontrastierende Farbe) */
+}

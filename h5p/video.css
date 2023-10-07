@@ -1,0 +1,24 @@
+/* video.css */
+
+/* Style the video containers */
+.video-container {
+    background-color: #fff; /* White background color */
+    border-radius: 10px; /* Rounded edges */
+    padding: 20px; /* Padding to create some space around the videos */
+    margin: 10px; /* Margin to create space between video containers */
+    display: inline-block; /* Display video containers inline to create columns */
+    width: calc(50% - 20px); /* 50% width for two columns with margins included */
+    box-sizing: border-box; /* Include padding and border in the element's total width */
+    text-align: center; /* Center the content within the video containers */
+}
+
+/* Style the title within the video containers */
+.video-container h2 {
+    margin-bottom: 10px; /* Add some space below the video titles */
+}
+
+/* Style the video elements within the containers */
+.video-container video {
+    width: 100%; /* Make the videos fill the entire container width */
+    max-width: 100%; /* Ensure videos don't exceed their original size */
+}
