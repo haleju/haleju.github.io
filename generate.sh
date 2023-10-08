@@ -10,7 +10,7 @@ thumbnails_dir="thumbnails/"
 mkdir -p "$thumbnails_dir"
 rm -rf "$thumbnails_dir"/*
 if ! command -v ffmpeg &>/dev/null; then
-    sudo apt install ffmpeg -y
+    sudo apt install ffmpeg -y >> /dev/null
 fi
 
 # Count the total number of subdirectories
