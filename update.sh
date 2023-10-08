@@ -1,4 +1,2 @@
-cd h5p/
-./generate.sh > videos.txt
-cd ..
+./generate.sh > h5p/videos.txt
 echo "Finished"

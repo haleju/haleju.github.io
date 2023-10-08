@@ -1,33 +1,22 @@
 /* video.css */
 
-/* Style the video containers */
-.video-container {
-    background-color: #fff; /* White background color */
-    border-radius: 10px; /* Rounded edges */
-    padding: 20px; /* Padding to create some space around the videos */
-    margin: 10px; /* Margin to create space between video containers */
-    display: inline-block; /* Display video containers inline to create columns */
-    width: calc(50% - 20px); /* 50% width for two columns with margins included */
-    box-sizing: border-box; /* Include padding and border in the element's total width */
-    text-align: center; /* Center the content within the video containers */
+/* Style the video container */
+#video-container {
+    text-align: center; /* Center the video within the container */
+    margin-top: 20px; /* Add some space at the top */
 }
 
-/* Style the title within the video containers */
-.video-container h2 {
-    margin-bottom: 10px; /* Add some space below the video titles */
+/* Style the title */
+#title {
+    text-align: center; /* Center the title text */
 }
 
-/* Style the video elements within the containers */
-.video-container video {
-    width: 100%; /* Make the videos fill the entire container width */
-    max-width: 100%; /* Ensure videos don't exceed their original size */
-}
-
-/* Style the category titles */
-.category {
-    background-color: #9ccc9c; /* Background color for category titles */
-    border-radius: 10px; /* Rounded edges for category titles */
-    padding: 10px; /* Padding for category titles */
-    margin: 10px; /* Margin above and below category titles */
-    text-align: center; /* Center the text within category titles */
+#back-button {
+    text-decoration: none;
+    background-color: #548d68; /* Hintergrundfarbe des Home-Buttons in einer grünlichen Version */
+    color: #fff; /* Weiße Textfarbe */
+    padding: 10px;
+    border-radius: 10px; /* Abgerundete Ecken für den Button */
+    transition: background-color 0.3s ease-in-out;
+    margin: 1%;
 }

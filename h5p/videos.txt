@@ -1,0 +1,5 @@
+#Kategorie1
+videos/01Kategorie1/01Intro.mp4,Intro,thumbnails/Kategorie1/Intro.png
+#Kategorie2
+videos/02Kategorie2/01Suchsel.mp4,Suchsel,thumbnails/Kategorie2/Suchsel.png
+videos/02Kategorie2/02Anderes.mp4,Anderes,thumbnails/Kategorie2/Anderes.png

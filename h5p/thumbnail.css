@@ -1,0 +1,35 @@
+/* video.css */
+
+/* Style the thumbnail containers */
+.thumbnail-container {
+    background-color: #fff; /* White background color */
+    border-radius: 10px; /* Rounded edges */
+    padding: 20px; /* Padding to create some space around the thumbnails */
+    margin: 10px; /* Margin to create space between thumbnail containers */
+    display: inline-block; /* Display thumbnail containers inline to create columns */
+    width: calc(50% - 20px); /* 50% width for two columns with margins included */
+    box-sizing: border-box; /* Include padding and border in the element's total width */
+    text-align: center; /* Center the content within the thumbnail containers */    
+}
+
+/* Style the title within the thumbnail containers */
+.thumbnail-container h2 {
+    margin-bottom: 10px; /* Add some space below the video titles */
+    color: #333; /* Set the text color to a darker shade (not link blue) */
+    text-decoration: none; /* Remove underlines (text decoration) */
+}
+
+/* Style the thumbnail images within the containers */
+.thumbnail-container img {
+    width: 100%; /* Make the thumbnails fill the entire container width */
+    max-width: 100%; /* Ensure thumbnails don't exceed their original size */
+}
+
+/* Style the category titles */
+.category {
+    background-color: #9ccc9c; /* Background color for category titles */
+    border-radius: 10px; /* Rounded edges for category titles */
+    padding: 10px; /* Padding for category titles */
+    margin: 10px 0; /* Margin above and below category titles, remove left/right margin */
+    text-align: center; /* Center the text within category titles */
+}

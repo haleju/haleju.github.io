@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     const categories = [
-        { name: "H5P", url: "h5p/index.html" },
+        { name: "H5P", url: "h5p/" },
         { name: "Andere", url: "andere/" },
     ];
 
