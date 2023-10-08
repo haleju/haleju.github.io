@@ -30,6 +30,7 @@ body {
     background-color: #548d68; /* Hintergrundfarbe des Home-Buttons in einer grünlichen Version */
     color: #fff; /* Weiße Textfarbe */
     padding: 10px;
+    margin-left: 5%;
     border-radius: 10px; /* Abgerundete Ecken für den Button */
     transition: background-color 0.3s ease-in-out;
 }
