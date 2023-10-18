@@ -2,3 +2,5 @@
 videos/01Übungen erstellen bei Logineo/01Suchsel.mp4,Suchsel,thumbnails/Übungen erstellen bei Logineo/Suchsel.png
 #Übungen bei Logineo bereitstellen
 videos/02Übungen bei Logineo bereitstellen/01Dateien bei Logineo bereitstellen.mp4,Dateien bei Logineo bereitstellen,thumbnails/Übungen bei Logineo bereitstellen/Dateien bei Logineo bereitstellen.png
+#Übungen erstellen bei Lumi
+videos/03Übungen erstellen bei Lumi/01 Memory erstellen.mp4, Memory erstellen,thumbnails/Übungen erstellen bei Lumi/ Memory erstellen.png
