@@ -1,3 +1,7 @@
+#ZUM-Apps
+videos/00ZUM-Apps/Bereitstellung einer ZUM App.mp4,reitstellung einer ZUM App,thumbnails/ZUM-Apps/reitstellung einer ZUM App.png
+videos/00ZUM-Apps/Erste Schritte bei ZUM_Apps - einen Lückentext erstellen.mp4,ste Schritte bei ZUM_Apps - einen Lückentext erstellen,thumbnails/ZUM-Apps/ste Schritte bei ZUM_Apps - einen Lückentext erstellen.png
+videos/00ZUM-Apps/Urheberrechtsangaben bei ZUM.mp4,heberrechtsangaben bei ZUM,thumbnails/ZUM-Apps/heberrechtsangaben bei ZUM.png
 #Übungen erstellen bei Logineo
 videos/01Übungen erstellen bei Logineo/01Suchsel.mp4,Suchsel,thumbnails/Übungen erstellen bei Logineo/Suchsel.png
 #Übungen bei Logineo bereitstellen
