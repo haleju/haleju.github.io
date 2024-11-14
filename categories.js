@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const categories = [
         { name: "H5P", url: "h5p/" },
-        { name: "Andere", url: "andere/" },
+        { name: "ZUM-Apps", url: "zum-apps/" },
     ];
 
     const categoryList = document.getElementById("category-list");
