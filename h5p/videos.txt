@@ -1,7 +1,3 @@
-#ZUM-Apps
-videos/00ZUM-Apps/Bereitstellung einer ZUM App.mp4,reitstellung einer ZUM App,thumbnails/ZUM-Apps/reitstellung einer ZUM App.png
-videos/00ZUM-Apps/Erste Schritte bei ZUM_Apps - einen Lückentext erstellen.mp4,ste Schritte bei ZUM_Apps - einen Lückentext erstellen,thumbnails/ZUM-Apps/ste Schritte bei ZUM_Apps - einen Lückentext erstellen.png
-videos/00ZUM-Apps/Urheberrechtsangaben bei ZUM.mp4,heberrechtsangaben bei ZUM,thumbnails/ZUM-Apps/heberrechtsangaben bei ZUM.png
 #Übungen erstellen bei Logineo
 videos/01Übungen erstellen bei Logineo/01Suchsel.mp4,Suchsel,thumbnails/Übungen erstellen bei Logineo/Suchsel.png
 #Übungen bei Logineo bereitstellen
@@ -10,3 +6,7 @@ videos/02Übungen bei Logineo bereitstellen/01Dateien bei Logineo bereitstellen.
 videos/03Übungen erstellen bei Lumi/01 Memory erstellen.mp4, Memory erstellen,thumbnails/Übungen erstellen bei Lumi/ Memory erstellen.png
 #Übungen über Lumi bereitstellen
 videos/04Übungen über Lumi bereitstellen/01Dateien bei Lumi bereitstellen.mp4,Dateien bei Lumi bereitstellen,thumbnails/Übungen über Lumi bereitstellen/Dateien bei Lumi bereitstellen.png
+#ZUM-Apps
+videos/05ZUM-Apps/01Erste Schritte bei ZUM_Apps - einen Lückentext erstellen.mp4,Erste Schritte bei ZUM_Apps - einen Lückentext erstellen,thumbnails/ZUM-Apps/Erste Schritte bei ZUM_Apps - einen Lückentext erstellen.png
+videos/05ZUM-Apps/02Urheberrechtsangaben bei ZUM.mp4,Urheberrechtsangaben bei ZUM,thumbnails/ZUM-Apps/Urheberrechtsangaben bei ZUM.png
+videos/05ZUM-Apps/03Bereitstellung einer ZUM App.mp4,Bereitstellung einer ZUM App,thumbnails/ZUM-Apps/Bereitstellung einer ZUM App.png
