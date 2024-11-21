@@ -8,6 +8,4 @@ videos/03Übungen erstellen bei Lumi/01 Memory erstellen.mp4, Memory erstellen,t
 videos/04Übungen über Lumi bereitstellen/01Dateien bei Lumi bereitstellen.mp4,Dateien bei Lumi bereitstellen,thumbnails/Übungen über Lumi bereitstellen/Dateien bei Lumi bereitstellen.png
 #ZUM-Apps
 videos/05ZUM-Apps/01Erste Schritte bei ZUM_Apps - einen Lückentext erstellen.mp4,Erste Schritte bei ZUM_Apps - einen Lückentext erstellen,thumbnails/ZUM-Apps/Erste Schritte bei ZUM_Apps - einen Lückentext erstellen.png
-videos/05ZUM-Apps/02Urheberrechtsangaben bei ZUM.mp4,Urheberrechtsangaben bei ZUM,thumbnails/ZUM-Apps/Urheberrechtsangaben bei ZUM.png
-videos/05ZUM-Apps/03Bereitstellung einer ZUM App.mp4,Bereitstellung einer ZUM App,thumbnails/ZUM-Apps/Bereitstellung einer ZUM App.png
-videos/05ZUM-Apps/04Erste Schritte bei ZUM_Apps - ein Memory erstellen.mp4,Erste Schritte bei ZUM_Apps - ein Memory erstellen,thumbnails/ZUM-Apps/Erste Schritte bei ZUM_Apps - ein Memory erstellen.png
+videos/05ZUM-Apps/02Bereitstellung einer ZUM App.mp4,Bereitstellung einer ZUM App,thumbnails/ZUM-Apps/Bereitstellung einer ZUM App.png
